@@ -11,8 +11,8 @@
 .app__bg {
 	background: url("./assets/bg.png");
 	background-position: center;
-	background-size: cover;
-	background-repeat: repeat;
+	/* background-size: cover; */
+	/* background-repeat: repeat; */
 	background-attachment: fixed;
 }
 
